@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "QuickTrade Neon",
+    "slug": "quicktrade-neon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "android": { "package": "com.meranox.quicktradeneon", "versionCode": 1 }
+  }
+}
